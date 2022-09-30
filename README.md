@@ -5,7 +5,7 @@ on-board systems.This is my showroom account.
 
 I enjoy working in many fields in order to increase my own level and meet a people around the world.I'm addicted to all things technology.
 
-*20 Y/O junior developer. 🎓 Student at IAI-Togo(Institut Africaine d'Informatique).*
+*20 Y/O junior developer. 🎓 Student at UNICAEN Normandie University - France.*
 
 ###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Language:*
 
