@@ -32,10 +32,7 @@ I enjoy working in many fields in order to increase my own level and meet a peop
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/></code>
 
 
-###### *<img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>Here is my  stats*
-|       |      |
-|  ---        |       --- |
-| <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=donne12&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donne12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
+###### *<img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>Socials*
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieu-donné-esiaku-7a8290182/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/EsiakuKoffi/)
